@@ -1,0 +1,47 @@
+[
+  {
+    "product": "Sepatu",
+    "product_title": "Nike Men's Air Max Running Shoe",
+    "brand": "Nike",
+    "stock": "5"
+  },
+  {
+    "product": "Sepatu",
+    "product_title": "Skechers Star Wars Slip On Charcoal/Black",
+    "brand": "SkechersY",
+    "stock": "2"
+  },
+  {
+    "product": "Pakaian",
+
+    "product_title": "Gamis Lebaran Pinky",
+    "brand": "Annisa",
+    "stock": "8"
+  },
+  {
+    "product": "Pakaian",
+
+    "product_title": "Party Dress Black Knight",
+    "brand": "Zoro",
+    "stock": "3"
+  },
+  {
+    "product": "Pakaian",
+
+    "product_title": "sweater NYC brooklyn",
+    "brand": "Round",
+    "stock": "8"
+  },
+  {
+    "product": "Kosmetik",
+    "product_title": "Emina Cheek Lit Pressed Blush 3.5 g",
+    "brand": "Emina",
+    "stock": "20"
+  },
+  {
+    "product": "Kosmetik",
+    "product_title": "Maybelline Fit Me! Matte + Poreless Liquid Matte",
+    "brand": "Maybelline",
+    "stock": "10"
+  }
+]
